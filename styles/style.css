@@ -1,8 +1,8 @@
 body {
     width: 850px;
     height: 1200px;
-    background: linear-gradient( to right, rgba(180, 146, 253, 0.30) 1%, rgba(173, 78, 245, 0.95) 60%);/*Falta arreglar*/
-    color: #9f919e;
+/*Falta arreglar*/
+    background: linear-gradient( 90deg, rgba(180, 146, 253, 0.3) 0%, rgba(173, 78, 245, 0.9543) 100%);
 }
 
 input{
@@ -15,7 +15,7 @@ input{
     width: 100%;
     height: 1220px;
     right: 70px;
-    background: white;
+    background: rgb(255, 255, 255);
 }
 
 
